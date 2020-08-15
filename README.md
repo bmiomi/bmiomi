@@ -4,6 +4,11 @@
 **bmiomi/bmiomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![imagen](https://w.wallhaven.cc/full/96/wallhaven-96688w.jpg)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![stack Overflow](http://lmsotfy.com/so.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
