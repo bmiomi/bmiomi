@@ -26,6 +26,7 @@ a little about my
           <td> 
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Imagen-Sqlite"> 
             <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Imagen-mongodb"> 
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="Imagen-MySql"> 
           </td>
           <td>
           <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt='imagen-Angular'>
@@ -40,6 +41,8 @@ a little about my
           <td colspan='3'>
             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Imagen-Reactjs"> 
             <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" with='60px' height='60px' alt="Imagen-selenium"> 
+            <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="Imagen-Pandas"> 
+            <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Imagen-selenium"> 
           </td>
         <tr>
           <th colspan='3'>something I use and love 💓 </th>
