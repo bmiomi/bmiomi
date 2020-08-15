@@ -23,8 +23,7 @@ a little about my
             <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Imagen-TypeScript"> 
             <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Imagen-HTML"> 
           </td>
-          <td>
-            <img src="#" alt="Imagen-SqlServer"> 
+          <td> 
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Imagen-Sqlite"> 
             <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Imagen-mongodb"> 
           </td>
